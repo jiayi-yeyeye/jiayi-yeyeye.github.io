@@ -1,0 +1,4 @@
+:HL["/_next/static/css/103de3107a6b5219.css","style"]
+:HL["/_next/static/css/6be024497405fdf4.css","style"]
+:HL["/fonts/portfolio-flex-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"zt9l7lGKSM5rq_3DaoP9D"}
