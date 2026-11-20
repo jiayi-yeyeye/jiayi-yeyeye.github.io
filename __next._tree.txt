@@ -1,4 +1,4 @@
 :HL["/_next/static/css/6e971a0ffcc43b52.css","style"]
 :HL["/_next/static/css/9da9e3eb9d0f932b.css","style"]
 :HL["/fonts/portfolio-flex-latin.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"95gpHiiaAAMJzbXfeaeVr"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"bzLP3WCmc_PqQ4tqx-Riv"}
